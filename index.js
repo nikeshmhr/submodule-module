@@ -17,3 +17,7 @@ export function divide(n1, n2) {
 export function mod(n1, n2) {
   return n1 % n2;
 }
+
+export function isOdd(n1) {
+  return mod(n1, 2) === 1;
+}
