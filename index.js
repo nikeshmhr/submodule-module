@@ -25,3 +25,7 @@ export function isOdd(n1) {
 export function isEven(n1) {
   return mod(n1, 2) === 0;
 }
+
+export function isPrime(n1) {
+  return '';
+}
