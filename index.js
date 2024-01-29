@@ -21,3 +21,7 @@ export function mod(n1, n2) {
 export function isOdd(n1) {
   return mod(n1, 2) === 1;
 }
+
+export function isEven(n1) {
+  return mod(n1, 2) === 0;
+}
