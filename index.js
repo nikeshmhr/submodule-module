@@ -65,3 +65,7 @@ export function pow(n1, n2) {
 export function sqrt(n1) {
   return Math.sqrt(n1);
 }
+
+export function max(n1, n2) {
+  return Math.max(n1, n2);
+}
