@@ -37,3 +37,7 @@ export function isLeapYear(n1) {
 export function isNatural(n1) {
   return false;
 }
+
+export function isImaginary(n1) {
+  return false;
+}
