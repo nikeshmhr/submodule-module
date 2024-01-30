@@ -57,3 +57,7 @@ export function isAngel() {
 export function isRoot() {
   return true;
 }
+
+export function sqrt(n1) {
+  return Math.sqrt(n1);
+}
