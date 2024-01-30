@@ -53,3 +53,7 @@ export function isGhost() {
 export function isAngel() {
   return false;
 }
+
+export function isRoot() {
+  return true;
+}
