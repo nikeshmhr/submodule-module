@@ -57,3 +57,7 @@ export function isAngel() {
 export function isRoot() {
   return true;
 }
+
+export function pow(n1, n2) {
+  return Math.pow(n1, n2);
+}
