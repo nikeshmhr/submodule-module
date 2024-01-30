@@ -45,3 +45,7 @@ export function isImaginary(n1) {
 export function isDragon() {
   return false;
 }
+
+export function isGhost() {
+  return true;
+}
