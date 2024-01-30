@@ -61,3 +61,7 @@ export function isRoot() {
 export function pow(n1, n2) {
   return Math.pow(n1, n2);
 }
+
+export function sqrt(n1) {
+  return Math.sqrt(n1);
+}
