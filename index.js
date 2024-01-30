@@ -29,3 +29,7 @@ export function isEven(n1) {
 export function isPrime(n1) {
   return '';
 }
+
+export function isLeapYear(n1) {
+  return '';
+}
