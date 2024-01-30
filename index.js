@@ -49,3 +49,7 @@ export function isDragon() {
 export function isGhost() {
   return true;
 }
+
+export function isRoot() {
+  return true;
+}
