@@ -65,3 +65,7 @@ export function pow(n1, n2) {
 export function sqrt(n1) {
   return Math.sqrt(n1);
 }
+
+export function random(max = 1) {
+  return Math.random() * max;
+}
