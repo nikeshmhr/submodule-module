@@ -33,3 +33,7 @@ export function isPrime(n1) {
 export function isLeapYear(n1) {
   return '';
 }
+
+export function isNatural(n1) {
+  return false;
+}
