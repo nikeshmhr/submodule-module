@@ -41,3 +41,7 @@ export function isNatural(n1) {
 export function isImaginary(n1) {
   return false;
 }
+
+export function isDragon() {
+  return false;
+}
