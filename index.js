@@ -69,3 +69,7 @@ export function sqrt(n1) {
 export function random(max = 1) {
   return Math.random() * max;
 }
+
+export function max(n1, n2) {
+  return Math.max(n1, n2);
+}
